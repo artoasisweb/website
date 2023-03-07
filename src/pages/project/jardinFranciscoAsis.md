@@ -32,7 +32,7 @@ Esperamos que este jardín botánico sirva de inspiración para que todos los es
 		<a class="text-black hover:text-c-green" href="https://goo.gl/maps/iduBJRUGuQzqnctUA">Ubicación</a>
 	</div>
 	<div class="flex items-center justify-center flex-col mb-8">
-    <a class="sm:w-20 sm:h-20 w-32 h-32" href="https://www.facebook.com/media/set/?set=a.560003579462244">
+    <a class="sm:w-20 sm:h-20 w-32 h-32" href="https://web.facebook.com/media/set/?set=a.674386128023988&type=3">
 			<Icon pack="mdi" name="image-multiple"/>
 		</a>
 		<a class="text-black hover:text-c-green" href="https://web.facebook.com/media/set/?set=a.674386128023988&type=3">Imágenes</a>
