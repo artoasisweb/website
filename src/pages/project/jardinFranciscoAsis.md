@@ -17,7 +17,7 @@ tags:
 
 Creación de un jardín botánico autosuficiente y sostenible, capaz de proporcionar soberanía alimentaria y medicinal para todos los miembros y colaboradores de la misión Franciscana de Quinhamel. Además los excedentes serán vendidos directamente (km 0) y a bajo precio a los habitantes y visitantes del pueblo de Quinhamel. 
 
-El jardín botánico también se usará como un espacio de formación para preparar a los nuevos permacultores de la zona, junto con la colaboración de la escuela de Quinhamel, la Universidad Amílcar Cabral, la asociación de Art Oasis y potencialmente cualquier otra asociación, instituto o cooperativa nacional e internacional que estén alineados con los objetivos del proyecto. 
+El jardín botánico también se está usando como un espacio de formación para preparar a los nuevos permacultores de la zona, junto con la colaboración de la escuela de Quinhamel, la Universidad Amílcar Cabral, la asociación de Art Oasis y potencialmente cualquier otra asociación, instituto o cooperativa nacional e internacional que estén alineados con los objetivos del proyecto. 
 
 Estamos creando un jardín botánico de gran belleza y biodiversidad, capaz de atraer la atención de todos sus visitantes y que podrá albergar eventos y actividades de todo tipo para la autofinanciación del jardín.
 
